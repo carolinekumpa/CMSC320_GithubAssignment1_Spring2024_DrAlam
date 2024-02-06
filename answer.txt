@@ -1,0 +1,1 @@
+I am taking CMSC320 due to both the raving reviews that I have heard about the class as well as my own curiosity about data science. While I have touched on various Data Science related topics throughout my undergraduate experience, learning about how to use platforms such as Jupyter and Colab and apply them to real world scenarios iwill be very useful for my career.
